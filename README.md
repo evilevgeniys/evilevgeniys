@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Evgenij</h1>
 <h3 align="center">A beginner frontend developer from Belarus</h3>
 
-- 🔭 I’m currently working on [my website](evilevgeniysprojects.by)
+- 🔭 I’m currently studying at [RSSchool](https://rs.school/)📚
 
-- 🌱 Today my priority is studying the **React**
+- 🌱 Today my priority is studying the **FrontEnd** skills
 
-- 👨‍💻 All of my projects are available at ~~[evilevgeniysprojects.by](evilevgeniysprojects.by)~~ (Not yet🤫)
+- 👨‍💻 All of my projects are available at [evilevgeniysprojects.by](evilevgeniysprojects.by) (Jesus, i did it 🎉🎉🎉)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
